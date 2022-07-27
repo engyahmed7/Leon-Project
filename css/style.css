@@ -398,7 +398,7 @@ html {
 
 }
 
-@media (max-width:768px) {
+@media (max-width:1020px) {
 
     .about-content .image::after,
     .about-content .image::before {
@@ -407,8 +407,9 @@ html {
     }
 
     .about-content .image {
-        margin-left: 50px;
+        margin-left: 20%;
         margin-bottom: 50px;
+        text-align: center;
     }
 
     .about-content hr {
